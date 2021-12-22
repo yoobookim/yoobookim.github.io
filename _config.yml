@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "yoobookim Note"
 title_separator          : "code, data, info"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "yoobookim"
 description              : "An amazing website."
 url                      : "https://yoobookim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

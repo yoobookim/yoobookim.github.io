@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "yoobookim Note"
-title_separator          : "code, data, info"
+locale                   : "ko-KR" # "en-US"
+title                    : "yoobookim's Note"
+title_separator          : "code, data, info, etc"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "yoobookim"
 description              : "An amazing website."
